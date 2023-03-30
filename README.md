@@ -1,35 +1,25 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+## <u>Presentación de Maximiliano Almada</u>
 
-Bienvenidos a
-# Programación con objetos I
+Buenas.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Mi nombre es Maximiliano Almada, tengo 19 años y estoy cursando la carrera Tecnicatura Universitaria en Programación en la Universidad Nacional de Hurlingham.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+> Este es un ejemplo de cómo se ven las citas.  
+> — Yo.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+Estoy en el segundo año, actualmente. Las materias que tengo aprobadas son:
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+1. Nuevos Entornos y Lenguajes
+2. Introducción a la Lógica y Problemas Computacionales
+3. Organización de Computadoras I
+4. Matemática para Informática I
+5. Matemática para Informática II
+6. Programación Estructurada
+7. Taller de Lenguajes de Marcado
+8. Inglés I
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+Acá hay una foto mía:
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+![Imagen de Maximiliano Almada.](https://instagram.faep8-2.fna.fbcdn.net/v/t51.2885-15/264193522_1104595863640761_4236983964699449327_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.faep8-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=M63C75ly9mYAX9iz0qD&edm=ACWDqb8BAAAA&ccb=7-5&ig_cache_key=MjcyMDczOTc0MzIzMjI4MDc3NQ%3D%3D.2-ccb7-5&oh=00_AfCQb9yJbLN1Crv2SQE36f-2EnbW7sxGaWvxWhfCIFnypA&oe=642B0988&_nc_sid=1527a3)
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+La saqué de mi [Instagram](https://www.instagram.com/iammaxi__/).
